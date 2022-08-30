@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am an aspiring android developer
+- 🔭 I’m currently working to improve my DSA skills
+- 🌱 Hoping to learn Flutter development in the future
 
 <!--
 **ChinmayJoshi1412/ChinmayJoshi1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
