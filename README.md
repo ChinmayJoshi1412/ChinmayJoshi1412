@@ -1,4 +1,5 @@
-### Hi there, I am a budding android developer
+### Hi there, I am a pre-final year student at Vellore Institute of Technology, Bhopal pursing my Bachelor's in Computer Science and
+Engineering. I am a budding android developer.
 - 🔭 I’m currently working on my android app development skills
 - 🌱 I'm currently learning firebase
 
