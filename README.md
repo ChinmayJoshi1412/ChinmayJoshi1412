@@ -1,4 +1,4 @@
-### Hi there, I am an aspiring android developer
+### Hi there, I am a budding android developer
 - 🔭 I’m currently working on my android app development skills
 - 🌱 I'm currently learning firebase
 
