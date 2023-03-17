@@ -1,7 +1,5 @@
-### Hi there, I am a pre-final year student at Vellore Institute of Technology, Bhopal pursing my Bachelor's in Computer Science and
-Engineering. I am a budding android developer.
-- 🔭 I’m currently working on my android app development skills
-- 🌱 I'm currently learning firebase
+### Hi there, I am a pre-final year student at Vellore Institute of Technology, Bhopal pursing my Bachelor's in Computer Science and Engineering. I am an Android Developer proficient in technologies such as Android SDK and Flutter SDK. 
+
 
 <!--
 **ChinmayJoshi1412/ChinmayJoshi1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
