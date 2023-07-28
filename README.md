@@ -1,4 +1,4 @@
-### Hi there, I am a pre-final year student at Vellore Institute of Technology, Bhopal pursing my Bachelor's in Computer Science and Engineering. I am an Android Developer proficient in technologies such as Android SDK and Flutter SDK. 
+### Hi there, I am a final year student at Vellore Institute of Technology, Bhopal pursing my Bachelor's in Computer Science and Engineering. I am an Android Developer proficient in technologies such as Android SDK and Flutter SDK. 
 
 
 <!--
