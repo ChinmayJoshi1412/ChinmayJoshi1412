@@ -1,16 +1,48 @@
-### I am a recent graduate from Vellore Institute of Technology with a Bachelor's degree in Computer Science and Engineering. As a Software Developer, I specialize in creating user-friendly applications with a strong focus on performance and design. I have hands-on experience with a variety of frameworks and libraries, including the React.js, Node.js, Express.js, MongoDB and Flutter SDK which allows me to deliver dynamic, responsive, and scalable applications.
+# Hi, I'm Chinmay Joshi 👋
 
-<!--
-**ChinmayJoshi1412/ChinmayJoshi1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist** building ML and agentic AI systems — with side projects across full-stack and mobile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🔭 Currently working as a **Data Scientist at Incedo Inc.**, building AI/ML solutions for network security and performance monitoring
+- 🤖 Focused on **time-series forecasting, anomaly detection, and agentic AI** — including an on-premises LLM-based Root-Cause-Analysis system using LangChain/LangGraph
+- 💻 Also build **full-stack and mobile side projects** with React.js, Node.js, Express.js, MongoDB, and Flutter
+- 🎓 B.Tech in Computer Science and Engineering, Vellore Institute of Technology
+- 📫 Reach me at **chinmayjoshi1412@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Data Science / AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Full-Stack / Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**Tools / Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+
+-=gmail&logoColor=white)](mailto:chinmayjoshi1412@gmail.com)
+
+> Replace the LinkedIn `#` link above with your actual profile URL.
